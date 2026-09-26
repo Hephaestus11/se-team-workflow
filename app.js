@@ -1,3 +1,3 @@
-function login() {
-  return "login";
-}
+function authenticate() { 
+  return "auth logic";
+ }
